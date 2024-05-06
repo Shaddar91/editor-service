@@ -23,3 +23,4 @@ terraform.rc
 docker*
 docker-compose.yml
 *.sh
+Dockerfile

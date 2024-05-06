@@ -23,6 +23,6 @@
     "jsonwebtoken": "^9.0.2",
     "passport": "^0.7.0",
     "requests": "^0.3.0",
-    "winson": "^1.0.0"
+    "winston": "^3.13.0"
   }
 }

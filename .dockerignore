@@ -20,3 +20,6 @@ override.tf.json
 terraform.rc
 *.auto.tf
 *.auto.tfvars
+docker*
+docker-compose.yml
+*.sh

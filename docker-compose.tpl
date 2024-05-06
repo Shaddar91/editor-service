@@ -8,6 +8,5 @@ services:
     env_file:
       - .env
     volumes:
-      - .:/app
       - ./logs:/app/logs
     working_dir: /app

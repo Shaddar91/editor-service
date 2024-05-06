@@ -74,3 +74,5 @@ Thumbs.db
 *.swp
 
 docker-compose.yml
+node_modules
+canva-sdk

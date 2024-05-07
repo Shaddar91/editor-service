@@ -1,0 +1,3 @@
+[submodule "canva-sdk"]
+	path = canva-sdk
+	url = https://github.com/canva-sdks/canva-apps-sdk-starter-kit.git

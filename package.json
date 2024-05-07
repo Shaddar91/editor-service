@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/app.js",
     "deploy": "echo \"Add your deployment script here\"",
-    "setup-canva": "git clone https://github.com/canva-sdks/canva-apps-sdk-starter-kit.git canva-sdk && cd canva-sdk && npm install",
+    "setup-canva": "cd canva-sdk && npm install",
     "postinstall": "npm run setup-canva"
   },
   "keywords": [],
